@@ -8,13 +8,16 @@ html,body{
     height: 60px;
     border: 1px solid black;
 }
-.name{
+.name,.name1{
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     font-style: oblique;
     text-shadow: 1px 3px 5px;
     margin-left: 10%;
+}
+.name1{
+    margin-top: 1px;
 }
 .nav a{
     text-decoration: none;
@@ -367,7 +370,7 @@ margin-top: -35px;
     width: 300px;
     font-size: 20px;
 }
-footer{
+footer,.footer1{
     width: 100%;
     border: px solid black;
     background-color: black;
@@ -530,54 +533,100 @@ text-decoration: underline;
     position: absolute;
     color: white;
 }
-.text56,.text61,.text66,.text71{
+.text56,.text61,.text66,.text71,.text96,.text101,.text106,.text111{
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 22px;
-    margin-top: -105px;
+    margin-top: -150px;
 }
-.text56,.text57,.text58,.text59{
+.text56,.text57,.text58,.text59,.text76,.text77,.text78,.text79,.text96,.text97,.text98,.text99{
     margin-left: 2%;
 }
-.text61,.text62,.text63,.text64{
+.text61,.text62,.text63,.text64,.text81,.text82,.text83,.text84,.text101,.text102,.text103,.text104{
     margin-left: 26%;
 }
-.text66,.text67,.text68,.text69{
+.text66,.text67,.text68,.text69,.text86,.text87,.text88,.text89,.text106,.text107,.text108,.text109{
     margin-left: 51%;
 }
-.text71,.text72,.text73,.text74{
+.text71,.text72,.text73,.text74,.text91,.text92,.text93,.text94,.text111,.text112,.text113,.text114{
     margin-left: 76%;
 }
-.text57,.text62,.text67,.text72{
-margin-top: -84px;
+.text57,.text62,.text67,.text72,.text77,.text82,.text87,.text92,.text97,.text102,.text107,.text112{
+margin-top: -125px;
 }
-.text63,.text68,.text73,.text58{
+.text63,.text68,.text73,.text58,.text78,.text83,.text88,.text93,.text98,.text103,.text108,.text113{
     width: 18%;
-    height: 1px;
+    height: 2px;
     background-color: #ffffff;
-    margin-top: -50px;
+    margin-top: -85px;
 }
-.text59,.text64,.text69,.text74{
-    margin-top: -37px;
+.text59,.text64,.text69,.text74,.text79,.text84,.text89,.text94,.text99,.text104,.text109,.text114{
+    margin-top: -72px;
 }
-.text60,.text65,.text70,.text75{
+.text60,.text65,.text70,.text75,.text80,.text85,.text90,.text95,.text100,.text105,.text110,.text115{
     font-size: 40px;
-    margin-top: -51.5px;
+    margin-top: -86.5px;
 }
-.text60{
+.text60,.text80,.text100{
     margin-left: 13%;
 }
-.text64:hover,.text59:hover,.text69:hover,.text74:hover{
+.text64:hover,.text59:hover,.text69:hover,.text74:hover,.text79:hover,.text84:hover,.text89:hover,.text94:hover,.text99:hover,.text104:hover,.text109:hover,.text114:hover{
 text-decoration: underline;
 }
-.text65{
+.text65,.text85,.text105{
     margin-left: 37%;
 }
-.text70{
+.text70,.text90,.text110{
     margin-left: 63%;
 }
-.text75{
+.text75,.text95,.text115{
     margin-left: 87%;
 }
 /* ---------------------------------------------------------------- */
+.page2-grid3{
+    position: relative;
+    margin-top: -1%;
+}
+.page2-grid3 a{
+    text-decoration: none;
+}
+.page2-5,.page2-6{
+    width: 25%;
+    margin-left: -0.5%;
+}
+.page2-6{
+    height: 569.5px;
+}
+.text76,.text77,.text78,.text79,.text80,.text81,.text82,.text83,.text84,.text85,.text86,.text89,.text90,.text91,.text92,.text93,.text94,.text95,.text87,.text88,.text89{
+    position: absolute;
+    text-decoration: none;
+    color: white;
+}
+.text76,.text81,.text86,.text91{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    margin-top: -150px;
+}
+/* -------------------------------------------------------------------------------- */
+.text96,.text97,.text98,.text99,.text100,.text101,.text102,.text103,.text104,.text105,.text106,.text107,.text108,.text109,.text110,.text111,.text112,.text113,.text114,.text115{
+    position: absolute;
+    color: white;
+}
+.page2-grid4{
+    margin-top: -1%;
+    position: relative;
+    width: 100%;
+}
+.page2-7,.page2-8,.page2-9{
+    width: 25%;
+    margin-left: -0.5%;
+}
+.page2-7,.page2-9{
+    height:  569.5px;
+}
+.footer1{
+    margin-top: -4px;
+}
+
 
