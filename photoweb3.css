@@ -370,7 +370,7 @@ margin-top: -35px;
     width: 300px;
     font-size: 20px;
 }
-footer,.footer1{
+footer,.footer1,.footer3{
     width: 100%;
     border: px solid black;
     background-color: black;
@@ -628,5 +628,87 @@ text-decoration: underline;
 .footer1{
     margin-top: -4px;
 }
+/* ====================================================================================
+=======================page3=================================================
+============================================================================================== */
+.page3-black,.page4-black{
+    width: 40%;
+    background-color: black;
+    height: 600px;
+}
+.page3-one,.page4-one{
+    width: 100%;
+    height: 600px;
+}
+.page3-grid1,.page4-grid1{
+  position: absolute;
+  width: 60%;
+  margin-top: -600px;
+margin-left: 40%;
+}
+.text120{
+    font-size: 36px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-top: -400px;
+    color: white;
+    margin-left: 8%;
+}
+.text121{
+    position: absolute;
+    width: 400px;
+    font-size: 18px;
+    color: rgb(255, 255, 255,0.65);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -350px;
+    margin-left: 7%;
+}
+.page3-grid3,.page4-grid4{
+    width: 100%;
+    height: auto;
+    margin-top: 400px;
+}
+.page3-two{
+    width: 100%;
+    height: 250px;
+}
+.footer3{
+    margin-top: -4px;
+}
+.text140{
+    width: 400px;
+    font-size: 40px;
+    font-weight: bolder;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 10%;
+    color: white;
+}
+.text141,.text142{
+    position: absolute;
+    color: white;
+}
+.text141{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 70%;
+    margin-top: -200px;
+}
+.text141:hover{
+    text-decoration: underline;
+}
+.text142{
+    font-size: 35px;
+    margin-top: -210px;
+    margin-left: 80%;
+}
+.page4-grid4{
+    margin-top: 600px;
+}
 
+/* ======================================================================================
+=====================================page4=====================================
+------------=======================================================-------------------------------------------------------------- */
 
