@@ -238,6 +238,9 @@ html,body{
     margin-left: 10%;
     font-size: 34px;
 }
+.text16:hover,.text21:hover,.text26:hover,.text31:hover{
+text-decoration: underline;
+}
 .text17,.text22,.text27,.text32{
     font-size: 80px;
     margin-top: -134px;
@@ -249,7 +252,77 @@ html,body{
     text-decoration: none;
     color: white;
 }
-
+/* =====================================================
+===================================================================================== */
+.third-grid{
+    width: 100%;
+    margin-top: 100px;
+}
+.thirdgrid-one,.tg-two,.tg-three{
+    width: 100%;
+    border: 1px solid black;
+    position: relative;
+    border: none;
+}
+.tg-two,.tg-three{
+    margin-left: 0%;
+    height: 368px;
+}
+.tg-three{
+    margin-bottom: 400px;
+}
+.nine{
+    width: 70%;
+    height: 400px;
+    margin-left: 20%;
+}
+.text33{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 20%;
+}
+.text34{
+    width: 600px;
+    font-size: 38px;
+    margin-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.ten{
+    width: 40%;
+    height: auto;
+    margin-left: 25%;
+    margin-top: 15%;
+}
+.text35{
+    font-size: 46px;
+    font-weight: bolder;
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.text36{
+    font-size: 38px;
+    width: 600px;
+    margin-left: 20%;
+}
+.eleven{
+    width: 28%;
+    height: 300px;
+    margin-left: 30%;
+    margin-top: 450px;
+    position: relative;
+}
+.text37{
+    margin-left: 20%;
+    width: 600px;
+    margin-top: 50px;
+    font-size: 46px;
+}
+.text38{
+    margin-left: 20%;
+    width: 600px;
+    font-size: 38px;
+    margin-bottom: 300px;
+}
 
 
 
