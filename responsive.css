@@ -52,12 +52,13 @@ html,body{
     margin-top: px;
     display: none;
 }
+/* =================================================================== */
 .black{
     width: 100%;
     height: 700px;
     background-color: black;
     position: relative;
-    margin-top: 600px;
+    margin-top: 650px;
 }
 .text1{
     color: white;
@@ -94,9 +95,9 @@ html,body{
 .one{
     width: 100%;
     margin-left: 0%;
-    height: 600px;
+    height: 650px;
     position: absolute;
-    margin-top: -600px ;
+    margin-top: -650px ;
 }
 .second{
     width: 100%;
@@ -104,7 +105,7 @@ html,body{
 }
 .two{
     width: 100%;
-    height: 600px;
+    height: 700px;
 }
 .text5{
     font-size: 65px;
@@ -130,8 +131,8 @@ html,body{
 }
 .text8{
     font-size: 55px;
-    margin-left: 9%;
-    margin-top: -46px;
+    margin-left: 59%;
+    margin-top: -70px;
 }
 .second a{
     text-decoration: none;
@@ -149,41 +150,127 @@ html,body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
     font-weight: bold;
-    font-size: 40px;
-    width: 320px;
-    margin-left: 8%;
-    position: relative;
-    margin-top: 100px;
+    font-size: 64px;
+    width: 520px;
+    margin-left: 20%;
+    position: absolute;
+    margin-top: 750px;
 }
 .three{
     width: 100%;
-    height: 600px;
+    height: 700px;
     margin-left: 0%;
-    margin-top: -200px;
+    margin-top: 00px;
 }
 .text10{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+    font-size: 36px;
     font-family: 'Times New Roman', Times, serif;
-    width: 400px;
-    margin-top: 0px;
-    margin-left: 8%;
+    width: 600px;
+    margin-top: 990px;
+    margin-left: 20%;
+    color: rgb(128, 128, 128);
 }
 .third a{
     text-decoration: none;
     color: black;
 }
 .text11{
-    margin-top: 800px;
-    margin-left: 60%;
-    width: 200px;
-    font-weight: bold;
-    font-size: 18px;
-    position: absolute;
+    margin-top: 1200px;
+    margin-left: 50%;
+    width: 400px;
+    font-size: 36px;
+    font-weight: normal;
+    letter-spacing: 1px;
 }
 .text12{
-    font-size: 40px;
-    margin-left: 140%;
-    margin-top: -52px;
+    font-size: 60px;
+    margin-left: 150%;
+    margin-top: -90px;
 }
+/* =====================================================================
+====================================================================================== */
+.photo-grid{
+    width: 100%;
+    position: relative;
+    margin-top: 800px;
+}
+.four,.five,.six,.seven{
+    width: 100%;
+}
+.seven{
+    height: auto;
+}
+.four{
+    position: relative;
+    height: auto;
+}
+.five,.six,.seven{
+   position: relative;
+   margin-left: 0px;
+}
+.text13,.text14,.text15,.text16,.text17,.text18,.text19,.text20,.text21,.text22,.text23,.text24,.text25,.text26,.text27,.text28,.text29,.text30,.text31,.text32{
+    position: absolute;
+}
+.text13,.text18,.text23,.text28{
+    font-size: 55px;
+    margin-top: -300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    margin-left: 10%;
+}
+.text14,.text19,.text24,.text29{
+   margin-top: -240px;
+   font-size: 36px;
+   margin-left: 10%;
+}
+.text15,.text20,.text25,.text30{
+    width: 90%;
+    height: 5px;
+    background-color: #ffffff;
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 5%;
+}
+.text16,.text21,.text26,.text31{
+    margin-top: -105px;
+    position: absolute;
+    margin-left: 10%;
+    font-size: 34px;
+}
+.text17,.text22,.text27,.text32{
+    font-size: 80px;
+    margin-top: -134px;
+    position: absolute;
+    margin-left: 45%;
+}
+
+.photo-grid a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
