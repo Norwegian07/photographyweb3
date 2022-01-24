@@ -14,7 +14,7 @@ html,body{
     font-weight: bold;
     font-style: oblique;
     text-shadow: 1px 3px 5px;
-    margin-left: 10%;
+    margin-left: 15%;
 }
 .name1{
     margin-top: 1px;
@@ -31,7 +31,7 @@ html,body{
  color: deeppink;
 }
 .nav-a{
-    margin-left: 35%;
+    margin-left: 40%;
     margin-top: -40px;
 }
 
@@ -118,7 +118,7 @@ html,body{
 }
 .text7{
     margin-left: 70%;
-    font-size: 18px;
+    font-size: 17px;
     margin-top: 70px;
     font-weight: bold;
 }
