@@ -527,22 +527,22 @@ margin-top: -125px;
 }
 .text60,.text65,.text70,.text75,.text80,.text85,.text90,.text95,.text100,.text105,.text110,.text115{
     font-size: 40px;
-    margin-top: -86.5px;
+    margin-top: -89px;
 }
 .text60,.text80,.text100{
-    margin-left: 13%;
+    margin-left: 10%;
 }
 .text64:hover,.text59:hover,.text69:hover,.text74:hover,.text79:hover,.text84:hover,.text89:hover,.text94:hover,.text99:hover,.text104:hover,.text109:hover,.text114:hover{
 text-decoration: underline;
 }
 .text65,.text85,.text105{
-    margin-left: 37%;
+    margin-left: 35%;
 }
 .text70,.text90,.text110{
-    margin-left: 63%;
+    margin-left: 60%;
 }
 .text75,.text95,.text115{
-    margin-left: 87%;
+    margin-left: 85%;
 }
 /* ---------------------------------------------------------------- */
 .page2-grid3{
