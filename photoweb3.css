@@ -107,7 +107,7 @@ margin-top: -600px;
 }
 .two{
     width: 60%;
-    height: 600px;
+    height: 700px;
 }
 .text5{
     font-size: 40px;
@@ -133,7 +133,7 @@ margin-top: -600px;
 .text8{
     font-size: 35px;
     margin-left: 79%;
-    margin-top: -46px;
+    margin-top: -48px;
 }
 .second a{
     text-decoration: none;
@@ -159,7 +159,7 @@ margin-top: -600px;
 }
 .three{
     width: 60%;
-    height: 600px;
+    height: 700px;
     margin-left: 40%;
     margin-top: 42px;
 }
@@ -187,7 +187,7 @@ margin-top: -600px;
 .text12{
     font-size: 40px;
     margin-left: 140%;
-    margin-top: -52px;
+    margin-top: -53px;
 }
 /* ========================== */
 .photo-grid{
@@ -195,122 +195,85 @@ margin-top: -600px;
     position: relative;
     margin-top: -4.4px;
 }
-.four,.five,.six,.seven{
-    width: 25%;
-}
-.seven{
-    height: 570px;
-}
-.four{
-    position: relative;
-    height: 570px;
-}
-.five,.six,.seven{
-   position: relative;
-   margin-left: -5px;
-}
-.text13,.text14{
-    position: absolute;
-    color: white;
-    margin-left: 2%;
-}
-.text13{
-    font-size: 22px;
-    margin-top: -107px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.text14{
-   margin-top: -85px;
-}
-.text15{
-    width: 18%;
-    height: 1px;
-    background-color: #ffffff;
-    position: absolute;
-    margin-top: -50px;
-    margin-left: 1%;
-}
-.text16{
-    margin-top: -35px;
-    position: absolute;
-    margin-left: 3%;
-}
-.text17{
-    font-size: 40px;
-    margin-top: -50px;
-    position: absolute;
-    margin-left: 14%;
-}
-.text18,.text19,.text20,.text21,.text22,.text23,.text24,.text25,.text26,.text27,.text28,.text29,.text30,.text31,.text32{
-    position: absolute;
-}
-.text18,.text19,.text20,.text21,.text22{
-margin-left: 26%;
-color: white;
-margin-top: -105px;
-}
-.text18,.text23,.text28{
-    font-size: 22px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-.text19{
-    margin-top: -85px;
-}
-.text20{
-    margin-top: -45px;
-    width: 18%;
-    height: 1px;
-    background-color: white;
-}
-.text21{
-    margin-top: -35px;
-}
-.text22,.text27,.text32{
-    font-size: 40px;
-    margin-top: -50px;
-    margin-left: 37%;
-}
-.text23,.text24{
-    margin-left: 51%;
-    margin-top: -105px;
-    color: white;
-}
-
-.text24{
-    margin-top: -85px;
-}
-.text25,.text30{
-    width: 18%;
-    height: 1px;
-    background-color: white;
-    margin-top: -45px;
-}
-.text25,.text26{
-margin-left: 51%;
-}
-.text26,.text31{
-margin-top: -35px;
-}
-.text27{
-    margin-left: 63%;
-}
-.text28,.text29,.text30,.text31{
-    margin-left: 76%;
-    color: white;
-}
-.text28{
-    margin-top: -105px;
-}
-.text32{
-    margin-left: 87%;
-}
-.text29{
-    margin-top: -85px;
-}
 .photo-grid a{
     text-decoration: none;
     color: white;
 }
+.four,.five,.six,.seven{
+    width: 25%;
+    margin-left: -5px;
+}
+.seven{
+    height: 712px;
+    width: 25%;
+}
+.four{
+    position: relative;
+    height: 712px;
+}
+.text13,.text14,.text15,.text16,.text17,.text18,.text19,.text20,.text21,.text22,.text23,.text24,.text25,.text26,.text27,.text28,.text29,.text30,.text31,.text32{
+    position: absolute;
+    color: white;
+}
+.text13,.text14,.text15,.text16{
+    margin-left: 2%;
+}
+.text18,.text19,.text20,.text21{
+    margin-left: 27%;
+    color: white;
+}
+.text23,.text24,.text25,.text26{
+    margin-left: 52%;
+}
+.text28,.text29,.text30,.text31{
+    margin-left: 77%;
+}
+
+.text13,.text18,.text23,.text28{
+    font-size: 36px;
+    margin-top: -200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 1px;
+    position: absolute;
+}
+.text14,.text19,.text24,.text29{
+   margin-top: -160px;
+   font-size: 20px;
+   position: absolute;
+}
+.text15,.text20,.text25,.text30{
+    height: 1px;
+    background-color: #ffffff;
+    position: absolute;
+    margin-top: -130px;
+    width: 18%;
+}
+.text16,.text21,.text26,.text31{
+    margin-top: -100px;
+    position: absolute;
+    font-size: 20px;
+}
+.text16:hover,.text21:hover,.text26:hover,.text31:hover{
+text-decoration: underline;
+}
+.text17,.text22,.text27,.text32{
+    font-size: 60px;
+    margin-top: -125px;
+    position: absolute;
+}
+.text17{
+    margin-left: 13%;
+}
+.text22{
+    margin-left: 38%;
+}
+.text27{
+    margin-left: 63%;
+}
+.text32{
+    margin-left: 87%;
+}
+
 /* ============================================================================ */
 .third-grid{
     width: 100%;

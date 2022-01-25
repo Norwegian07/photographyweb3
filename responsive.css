@@ -57,6 +57,7 @@ html,body{
     background-color: black;
     position: relative;
     margin-top: 600px;
+    margin-bottom: 100px;
 }
 .one{
     width: 100%;
@@ -64,7 +65,7 @@ html,body{
     height: 600px;
 }
 .img1{
-    margin-top: -1200px;
+    margin-top: -1300px;
 }
 .img2{
     position: relative;
@@ -135,9 +136,9 @@ html,body{
     font-weight: lighter;
 }
 .text8{
-    font-size: 55px;
+    font-size: 70px;
     margin-left: 59%;
-    margin-top: -70px;
+    margin-top: -80px;
 }
 .second a{
     text-decoration: none;
@@ -189,16 +190,16 @@ html,body{
     letter-spacing: 1px;
 }
 .text12{
-    font-size: 60px;
+    font-size: 70px;
     margin-left: 150%;
-    margin-top: -90px;
+    margin-top: -98px;
 }
 /* =====================================================================
 ====================================================================================== */
 .photo-grid{
     width: 100%;
     position: relative;
-    margin-top: 800px;
+    margin-top: 700px;
 }
 .four,.five,.six,.seven{
     width: 100%;
@@ -250,7 +251,7 @@ text-decoration: underline;
     font-size: 80px;
     margin-top: -134px;
     position: absolute;
-    margin-left: 45%;
+    margin-left: 40%;
 }
 
 .photo-grid a{
@@ -277,12 +278,12 @@ text-decoration: underline;
 .img5{
     position: relative;
     margin-top: 50px;
-    margin-left: 45%;
+    margin-left: 43%;
 }
 .img6{
     position: relative;
     margin-top: 50px;
-    margin-left: 50%;
+    margin-left: 48%;
 }
 .nine{
     width: auto;
@@ -393,11 +394,262 @@ text-decoration: underline;
     color: grey;
 }
 
+/* =======================================================================================
+=============================page2====================================================
+=============================================================================== */
+.page2-2,.page2-3,.page2-4,.page2-5,.page2-6,.page2-7,.page2-8,.page2-9{
+width: 100%;
+height: auto;
+}
+.text56,.text57,.text58,.text59,.text60,.text61,.text62,.text63,.text64,.text65,.text66,.text67,.text68,.text69,.text70,.text71,.text72,.text73,.text74,.text75{
+    position: absolute;
+    color: white;
+}
+.text56,.text61,.text66,.text71,.text76,.text81,.text86,.text91,.text96,.text101,.text106,.text111{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 55px;
+    margin-top: -300px;
+}
+.text56,.text57,.text58,.text59,.text76,.text77,.text78,.text79,.text96,.text97,.text98,.text99{
+    margin-left: 10%;
+}
+.text61,.text62,.text63,.text64,.text81,.text82,.text83,.text84,.text101,.text102,.text103,.text104{
+    margin-left: 10%;
+}
+.text66,.text67,.text68,.text69,.text86,.text87,.text88,.text89,.text106,.text107,.text108,.text109{
+    margin-left: 10%;
+}
+.text71,.text72,.text73,.text74,.text91,.text92,.text93,.text94,.text111,.text112,.text113,.text114{
+    margin-left: 10%;
+}
+.text57,.text62,.text67,.text72,.text77,.text82,.text87,.text92,.text97,.text102,.text107,.text112{
+margin-top: -230px;
+font-size: 36px;
+}
+.text63,.text68,.text73,.text58,.text78,.text83,.text88,.text93,.text98,.text103,.text108,.text113{
+    width: 80%;
+    height: 4px;
+    background-color: #ffffff;
+    margin-top: -150px;
+}
+.text59,.text64,.text69,.text74,.text79,.text84,.text89,.text94,.text99,.text104,.text109,.text114{
+    margin-top: -120px;
+    font-size: 34px;
+}
+.text60,.text65,.text70,.text75,.text80,.text85,.text90,.text95,.text100,.text105,.text110,.text115{
+    font-size: 80px;
+    margin-top: -150px;
+    margin-left: 40%;
+}
 
+.text64:hover,.text59:hover,.text69:hover,.text74:hover,.text79:hover,.text84:hover,.text89:hover,.text94:hover,.text99:hover,.text104:hover,.text109:hover,.text114:hover{
+text-decoration: underline;
+}
+/* ----------------------------- */
+.footer1{
+    margin-top: -4px;
+    height: 900px;
+}
+/* ======================================================================================================
+===============third page=============================================
+============================================================================================= */
+.page3-grid1{
+    width: 100%;
+}
+.page3-black,.page4-black{
+    width: 100%;
+    background-color: #000000;
+    height: 600px;
+    margin-top: 600px;
+    text-align: center;
+}
+.page3-one,.page4-one{
+    width: 100%;
+    height: auto;
+}
+.page3-grid1,.page4-grid1{
+  position: absolute;
+  width: 100%;
+  margin-top: -1200px;
+margin-left: 0%;
+}
+.text120{
+    font-size: 56px;
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-top: -400px;
+    color: white;
+    margin-left: 30%;
+}
+.text121{
+    position: absolute;
+    width: 600px;
+    font-size: 36px;
+    color: rgb(255, 255, 255,0.65);
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -320px;
+    margin-left: 20%;
+}
+/* ------------------------------------------------------- */
+.text124{
+    background-color: black;
+}
+.text123{
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 60px;
+    margin-left: 40%;
+    margin-top: 5%;
+    font-size: 55px;
+}
+.text137{
+width: 55px;
+position: absolute;
+height: 55px;
+border: 1px solid black;
+border-radius: 50%;
+background-color: black;
+margin-left: 71.5px;
+margin-top: 2px;
+}
+.text124{
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute;
+margin: 3px;
+width: 55px;
+height: 55px;
+}
 
+.text122,.text125{
+    position: absolute;
+    margin-top: 6%;
+    font-size: 40px;
+}
+.text122{
+    margin-left: 15%;
+}
+.text125{
+    margin-left: 65%;
+}
+/* ----------------------------------------------------------------------------------- */
+.text126{
+    width: 100%;
+}
+.text127{
+    width: 100%;
+    border: 1px solid black;
+    background-color: white;
+    height: 600px;
+    margin-top: 100px;
+    float: left;
+    border: none;
+    margin-bottom: 100px;
+}
+.text127 a{
+    text-decoration: none;
+    color: black;
+}
+.text128,.text134,.text135{
+    font-size: 56px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin-left: 40%;
+}
+.text134{
+    margin-left: 30%;
+}
+.text135{
+    margin-left: 30%;
+}
+.text129{
+    font-size: 46px;
+    width: 600px;
+    margin-left: 20%;
+    font-family: 'Times New Roman';
+    letter-spacing: 2px;
+}
+.text130{
+    font-size: 56px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+margin-left: 40%;
+}
+.text131{
+    font-size: 10px;
+    margin-left: 43%;
+    margin-top: -40px;
+}
+.text132{
+width: 230px;
+height: 65px;
+border: 2px solid black;
+margin-left: 38%;
+}
+.text133{
+    margin-top: 10px;
+    margin-left : 13px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    font-weight: bold;
+}
 
+.text127:hover{
+    background-color: black;
+    color: white;
+}
+.text127:hover .text132{
+    background-color: lightgray;
+    color: black;
+}
 
-
+/* --------------------------------- */
+.page3-grid3,.page4-grid4{
+    width: 100%;
+    height: auto;
+    margin-top: 100px;
+}
+.page3-two{
+    width: 100%;
+    height: 400px;
+}
+/* --------------------------------------------- */
+.footer3{
+    margin-top: -4px;
+    height: 900px;
+}
+.text140{
+    width: 400px;
+    font-size: 40px;
+    font-weight: bolder;
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 10%;
+    color: white;
+}
+.text141,.text142{
+    position: absolute;
+    color: white;
+}
+.text141{
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 65%;
+    margin-top: -200px;
+}
+.text141:hover{
+    text-decoration: underline;
+}
+.text142{
+    font-size: 35px;
+    margin-top: -206px;
+    margin-left: 83%;
+}
 
 
 
