@@ -92,7 +92,7 @@ html,body{
     margin-top: -600px;
 }
 .img2{
-margin-top: -3.5px;
+margin-top: -4.5px;
 }
 .img3{
 margin-top: -600px;
@@ -202,14 +202,15 @@ margin-top: -600px;
 .four,.five,.six,.seven{
     width: 25%;
     margin-left: -5px;
+    height: 569.5px;
 }
 .seven{
-    height: 712px;
+    
     width: 25%;
 }
 .four{
     position: relative;
-    height: 712px;
+    height: 569.5px;
 }
 .text13,.text14,.text15,.text16,.text17,.text18,.text19,.text20,.text21,.text22,.text23,.text24,.text25,.text26,.text27,.text28,.text29,.text30,.text31,.text32{
     position: absolute;
@@ -258,7 +259,7 @@ text-decoration: underline;
 }
 .text17,.text22,.text27,.text32{
     font-size: 60px;
-    margin-top: -125px;
+    margin-top: -127px;
     position: absolute;
 }
 .text17{

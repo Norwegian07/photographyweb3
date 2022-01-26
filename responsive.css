@@ -401,6 +401,13 @@ text-decoration: underline;
 width: 100%;
 height: auto;
 }
+.text55{
+    position: absolute;
+    color: white;
+    font-size: 35px;
+    margin-top: -133px;
+    margin-left: 26%;
+}
 .text56,.text57,.text58,.text59,.text60,.text61,.text62,.text63,.text64,.text65,.text66,.text67,.text68,.text69,.text70,.text71,.text72,.text73,.text74,.text75{
     position: absolute;
     color: white;
@@ -439,7 +446,7 @@ font-size: 36px;
 }
 .text60,.text65,.text70,.text75,.text80,.text85,.text90,.text95,.text100,.text105,.text110,.text115{
     font-size: 80px;
-    margin-top: -152px;
+    margin-top: -154px;
     margin-left: 40%;
 }
 
