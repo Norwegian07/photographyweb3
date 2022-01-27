@@ -1,5 +1,5 @@
 /* responsive design mobile application */
-@media screen and (max-width:1000px){
+@media (max-width: 1000px){
 html,body{
     width: 100%;
     margin: 0%;
@@ -203,6 +203,7 @@ html,body{
 }
 .four,.five,.six,.seven{
     width: 100%;
+    height: auto;
 }
 .seven{
     height: auto;
@@ -446,7 +447,7 @@ font-size: 36px;
 }
 .text60,.text65,.text70,.text75,.text80,.text85,.text90,.text95,.text100,.text105,.text110,.text115{
     font-size: 80px;
-    margin-top: -154px;
+    margin-top: -157px;
     margin-left: 40%;
 }
 
