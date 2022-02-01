@@ -50,13 +50,21 @@
     }
     .text4{
         position: absolute;
-        font-size: 45px;
+        font-size: 55px;
         color: white;
-        margin-top: 498px;
+        margin-top: 485px;
         margin-left: 320px;
     }
 
-
+/* --------------grid2--------------------- */
+.second60{
+    width: 100%;
+    height: 650px;
+}
+.two{
+    width: 100%;
+    height: 650px;
+}
 
 
 
