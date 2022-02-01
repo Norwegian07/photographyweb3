@@ -250,7 +250,7 @@ text-decoration: underline;
 }
 .text17,.text22,.text27,.text32{
     font-size: 80px;
-    margin-top: -134px;
+    margin-top: -145px;
     position: absolute;
     margin-left: 40%;
 }
@@ -401,6 +401,9 @@ text-decoration: underline;
 .page2-2,.page2-3,.page2-4,.page2-5,.page2-6,.page2-7,.page2-8,.page2-9{
 width: 100%;
 height: auto;
+}
+.page2-grid2{
+    position: relative;
 }
 .text55{
     position: absolute;
