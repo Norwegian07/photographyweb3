@@ -226,3 +226,14 @@ margin-left: 40%;
 }
 
 /* --------------grid5----------------- */
+.grid5{
+width: 100%;
+height: auto;
+margin-top: 250px;
+}
+.responsive{
+    width: 23.3%;
+   margin: 5%;
+   text-align: center;
+   float: left;
+}
