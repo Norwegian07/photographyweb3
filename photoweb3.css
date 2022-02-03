@@ -1,6 +1,5 @@
 body,html{
     width: 100%;
-    margin: 0%;
     height: auto;
 }
 /* first grid */
@@ -73,6 +72,8 @@ body,html{
 }
 .white1{
     margin-top: -600px;
+    background-color: white;
+    color: black;
 }
 .text5{
     font-size: 42px;
@@ -243,4 +244,20 @@ footer{
     height: 400px;
     background-color: black;
 margin-top: 900px;
+position: relative;
+}
+footer a{
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 15px;
+}
+.footer-nav{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 35%;
+}
+.footer-nav a:hover{
+    text-decoration: underline;
 }
