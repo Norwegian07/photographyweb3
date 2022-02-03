@@ -2,6 +2,41 @@ body,html{
     width: 100%;
     height: auto;
 }
+/* nav */
+nav{
+    background-color: white;
+    width: 100%;
+    height: 40px;
+}
+.name{
+    position: absolute;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.name a{
+    text-decoration: none;
+    color: black;
+}
+.main-nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    padding: 15px;
+    padding-left: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-nav a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.main-nav{
+    position: absolute;
+    margin-left: 35%;
+}
+
+/* --------------- */
 /* first grid */
 .first60{
     width: 60%;
@@ -231,6 +266,8 @@ margin-left: 40%;
 width: 100%;
 height: auto;
 margin-top: 250px;
+background-color: white;
+color: black;
 }
 .responsive{
     width: 23.3%;
@@ -238,10 +275,17 @@ margin-top: 250px;
    text-align: center;
    float: left;
 }
+.text17{
+    font-weight: bold;
+    font-size: 24px;
+}
+.text18{
+    font-size: 18px;
+}
 /* --------------grid6----------------- */
 footer{
     width: 100%;
-    height: 400px;
+    height: 360px;
     background-color: black;
 margin-top: 900px;
 position: relative;
@@ -260,4 +304,33 @@ footer a{
 }
 .footer-nav a:hover{
     text-decoration: underline;
+}
+.name-f{
+    position: absolute;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: 130px;
+}
+svg{
+    color: white;
+   width: 28px;
+}
+.social a{
+    display: inline;
+}
+svg:hover{
+    color: deeppink;
+}
+.social{
+    margin-top: 170px;
+    position: absolute;
+    margin-left: 120px;
+}
+.copyright{
+    color: lightgray;
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 180px;
 }
