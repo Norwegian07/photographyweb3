@@ -331,13 +331,63 @@ svg{
     width: 100%;
     height: 700px;
 }
+.black2{
+    width: 100%;
+    background-color: black;
+    height: 700px;
+    margin-top: -1px;
+}
+.text20{
+    position: absolute;
+    margin-top: 120px;
+    color: white;
+    margin-left: 100px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.text21{
+    position: absolute;
+    margin-top: 140px;
+    font-size: 65px;
+    width: 400px;
+    font-weight: bolder;
+    color: white;
+    margin-left: 95px;
+}
 
+.text22{
+    position: absolute;
+    margin-top: 380px;
+    color: white;
+    margin-left: 100px;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.text23{
+    position: absolute;
+    margin-top: 430px;
+    color: rgb(255, 255, 255,0.8);
+    margin-left: 100px; 
+    width: 800px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+.text24 a{
+    position: absolute;
+    margin-top: 590px;
+    color: rgb(255, 255, 255,0.8);
+    margin-left: 100px; 
+    font-size: 24px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
 
-
-
-
-
-
+.text24 a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+    color: deeppink;
+    }
 
 
 
