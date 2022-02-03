@@ -238,3 +238,9 @@ margin-top: 250px;
    float: left;
 }
 /* --------------grid6----------------- */
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+margin-top: 900px;
+}
