@@ -13,7 +13,7 @@ nav{
     color: black;
     font-size: 36px;
     font-weight: bold;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-top: 15px;
 }
 .name a{
@@ -35,8 +35,8 @@ nav{
 .main-nav{
     margin-top: 15px;
     position: absolute;
-    margin-left: 45%;
-    width: 60%;
+    margin-left: 42%;
+    width: 65%;
 }
 
 /* --------------- */
@@ -213,7 +213,7 @@ margin-left: 0%;
 .grid4{
     width: 100%;
     height: auto;
-    margin-top: 700px;
+    margin-top: 750px;
 }
 /* float */
 .img-1,.img-2,.img-3,.img-4{
@@ -536,7 +536,7 @@ svg{
 }
 .prices{
     width: 70%;
-    height: 800px;
+    height: 850px;
     margin-left: 15%;
     background-color: white;
     color: black;
@@ -568,9 +568,9 @@ svg{
 .text37{
     border: 1px solid black;
     font-size: 44px;
-    width: 270px;
+    width: 350px;
     height: 50px;
-    margin-left: 280px;
+    margin-left: 220px;
  font-weight: bold;
 }
 
