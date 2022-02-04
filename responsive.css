@@ -36,6 +36,7 @@ nav{
     margin-top: 15px;
     position: absolute;
     margin-left: 45%;
+    width: 60%;
 }
 
 /* --------------- */
@@ -154,6 +155,9 @@ nav{
 }
 
 /* --------------grid3--------------------- */
+.grid3{
+    height: 800px;
+}
 .third60{
     width: 100%;
     height: 750px;
@@ -192,7 +196,7 @@ margin-left: 0%;
     font-size: 26px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 8%;
-    margin-top: 600px;
+    margin-top: 580px;
     position: absolute;
     font-weight: bolder;
     color: black;
@@ -200,7 +204,7 @@ margin-left: 0%;
 .text12{
     position: absolute;
     font-size: 56px;
-    margin-top: 570px;
+    margin-top: 550px;
     margin-left: 35%;
     color: black; 
 }
