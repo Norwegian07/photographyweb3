@@ -505,12 +505,35 @@ font-weight: bold;
     font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
 }
+.text36{
+    margin-top: -25px;
+}
+.text37{
+    border: 1px solid black;
+    font-size: 24px;
+    width: 200px;
+    height: 30px;
+    margin-left: 100px;
+ font-weight: bold;
+}
 .prices:hover{
     background-color: black;
     color: white;
     padding: 10px;
     font-size: 20px;
 }
+.prices .text37:hover{
+    border: 1px solid white;
+    background-color: lightgrey;
+    color: black;
+}
+
+
+
+
+
+
+
 
 
 /* <!-- =============================================================================================
@@ -556,7 +579,6 @@ font-weight: bold;
     width: 400px;
     font-weight: normal;
     font-family: 'Times New Roman', Times, serif;
-
 }
 
 
