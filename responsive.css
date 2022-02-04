@@ -478,6 +478,87 @@ svg{
     font-weight: normal;
     font-family: 'Times New Roman', Times, serif;
 }
+/* -------------------------- */
+.pagegrid{
+    width: 100%;
+    position: relative;
+}
+.on-off{
+    width: 100%;
+    margin-top: 50px;
+}
+.text29{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: absolute;
+    margin-left: 28%;
+}
+.text30{
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 35px;
+    position: absolute;
+    margin-left: 45% ;
+    margin-top: 2.4%;
+}
+.text31{
+    background-color: black;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 45.1% ;
+   padding: 3.4px;
+   margin-top: 2.4%;
+}
+.text32{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    position: absolute;
+    margin-left: 60%;
+}
+.pagegrid2{
+    width: 100%;
+  height: 500px;
+  margin-top: 150px;
+  position: absolute;
+}
+.prices{
+    width: 70%;
+    height: 800px;
+    margin-left: 15%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    text-align: center;
+}
+.text33{
+    font-weight: bold;
+    font-size: 60px;
+}
+.text34{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    width: 800px;
+    font-size: 40px;
+}
+.text35{
+    font-size: 75px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
 
 
 
