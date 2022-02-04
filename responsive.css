@@ -196,7 +196,7 @@ margin-left: 0%;
     font-size: 26px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-left: 8%;
-    margin-top: 600px;
+    margin-top: 620px;
     position: absolute;
     font-weight: bolder;
     color: black;
@@ -204,7 +204,7 @@ margin-left: 0%;
 .text12{
     position: absolute;
     font-size: 56px;
-    margin-top: 570px;
+    margin-top: 590px;
     margin-left: 35%;
     color: black; 
 }
@@ -494,15 +494,15 @@ svg{
 .text29{
     color: black;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     letter-spacing: 2px;
     position: absolute;
-    margin-left: 28%;
+    margin-left: 22%;
 }
 .text30{
-    width: 120px;
-    height: 30px;
+    width: 150px;
+    height: 60px;
     border: 1px solid black;
     border-radius: 35px;
     position: absolute;
@@ -511,8 +511,8 @@ svg{
 }
 .text31{
     background-color: black;
-    width: 25px;
-    height: 25px;
+    width: 55px;
+    height: 55px;
     border-radius: 50%;
     position: absolute;
     margin-left: 45.1% ;
@@ -522,11 +522,11 @@ svg{
 .text32{
     color: black;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     letter-spacing: 2px;
     position: absolute;
-    margin-left: 60%;
+    margin-left: 63%;
 }
 .pagegrid2{
     width: 100%;
