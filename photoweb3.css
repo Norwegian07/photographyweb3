@@ -588,10 +588,73 @@ font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
 }
 
+/* <!-- =============================================================================================
+========================================================================================================= --> */
+/* stories pages */
 
-
-
-
+.storymain-div{
+    width: 100%;
+}
+.image-div{
+    width: 40%;
+    height: auto;
+    margin: 150px;
+    position: relative;
+}
+.storyimg-1{
+    width: 100%;
+    height: auto;
+}
+.title{
+    width: 300px;
+    height: 350px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border: none;
+   margin-top: -1100px;
+   margin-left: 650px;
+  position: absolute;
+}
+.storytext1{
+    width: 150px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+.storytext2{
+    color: gray;
+font-family: 'Times New Roman', Times;
+margin-top: -40px;
+margin-left: 45px;
+}
+aside{
+    float: right;
+    width: 30%;
+    margin-top: -850px;
+    margin-right: 100px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times;
+}
+.readmore,.readless{
+    width: 200px;
+    height: 30px;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+}
+.readmore:hover, .readless:hover{
+    background-color: lightgray;
+    font-weight: bold;
+    cursor: pointer;
+}
 
 
 
