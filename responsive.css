@@ -577,10 +577,54 @@ svg{
 /* <!-- =============================================================================================
 ========================================================================================================= --> */
 /* stories pages */
-
-
-
-
+.storymain-div{
+    width: 100%;
+}
+.image-div{
+    width: 90%;
+    height: auto;
+    margin-top: 200px;
+}
+.storyimg-1{
+    width: 100%;
+    height: auto;
+}
+.title{
+    width: 340px;
+    height: auto;
+    background-color: white;
+    color: black;
+   margin-top: -1270px;
+   margin-left: 450px;
+   position: absolute;
+}
+.storytext1{
+    width: 300px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+.storytext2{
+    color: gray;
+font-family: 'Times New Roman', Times;
+margin-top: -40px;
+margin-left: 45px;
+font-size: 35px;
+}
+aside{
+    float: none;
+    width: 100%;
+    margin-top: 500px;
+    margin-right: 0px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times;
+}
 
 
 }
