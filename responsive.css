@@ -584,6 +584,7 @@ svg{
     width: 90%;
     height: auto;
     margin-top: 200px;
+    margin-left: 5%;
 }
 .storyimg-1{
     width: 100%;
@@ -615,9 +616,10 @@ font-size: 35px;
 }
 aside{
     float: none;
-    width: 100%;
-    margin-top: 500px;
+    width: 90%;
+    margin-top: 100px;
     margin-right: 0px;
+    margin-left: 5%;
     font-size: 18px;
     text-align: left;
     letter-spacing: 1px;
@@ -625,6 +627,19 @@ aside{
     padding: 5px;
     font-family: 'Times New Roman', Times;
 }
-
+.readmore,.readless{
+    width: 400px;
+    height: 60px;
+    font-size: 38px;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    font-weight: bolder;
+}
+.readmore:hover, .readless:hover{
+    background-color: lightgray;
+    font-weight: bold;
+    cursor: pointer;
+}
 
 }
