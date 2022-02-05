@@ -274,7 +274,7 @@ margin-left: 40%;
 .grid5{
 width: 100%;
 height: auto;
-margin-top: 250px;
+margin-top: 150px;
 background-color: white;
 color: black;
 }
@@ -296,7 +296,7 @@ footer{
     width: 100%;
     height: 360px;
     background-color: black;
-margin-top: 900px;
+margin-top: 500px;
 position: relative;
 }
 footer a{
