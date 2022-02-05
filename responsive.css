@@ -519,6 +519,16 @@ svg{
    padding: 3.4px;
    margin-top: 2.4%;
 }
+.text40{
+    background-color: black;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 55.9% ;
+   padding: 3.4px;
+   margin-top: 2.4%;
+}
 .text32{
     color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -534,7 +544,7 @@ svg{
   margin-top: 150px;
   position: absolute;
 }
-.prices{
+.prices,.yearlyplans{
     width: 70%;
     height: 850px;
     margin-left: 15%;

@@ -57,7 +57,7 @@ nav{
     border: 1px solid black;
     border: none;
    margin-top: -1100px;
-   margin-left: 650px;
+   margin-left: 600px;
   position: absolute;
 }
 .storytext1{
@@ -78,7 +78,7 @@ aside{
     float: right;
     width: 30%;
     margin-top: -1000px;
-    margin-right: 100px;
+    margin-right: 90px;
     font-size: 18px;
     text-align: left;
     letter-spacing: 1px;
