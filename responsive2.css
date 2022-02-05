@@ -43,6 +43,7 @@ nav{
     height: auto;
     margin: 150px;
     position: relative;
+    height: 1200px;
 }
 .storyimg-1{
     width: 100%;
@@ -76,7 +77,7 @@ margin-left: 45px;
 aside{
     float: right;
     width: 30%;
-    margin-top: -800px;
+    margin-top: -1000px;
     margin-right: 100px;
     font-size: 18px;
     text-align: left;
@@ -162,20 +163,20 @@ nav{
 }
 .image-div{
     width: 90%;
-    height: auto;
+    height: 1600px;
     margin-top: 100px;
     margin-left: 8%;
 }
 .storyimg-1{
     width: 100%;
-    height: auto;
+    height: 1200px;
 }
 .title{
     width: 340px;
     height: auto;
     background-color: white;
     color: black;
-   margin-top: -1420px;
+   margin-top: -820px;
    margin-left: 480px;
    position: absolute;
 }
@@ -197,7 +198,7 @@ font-size: 35px;
 aside{
     float: none;
     width: 90%;
-    margin-top: -50px;
+    margin-top: -400px;
     margin-right: 0px;
     margin-left: 8%;
     font-size: 18px;
