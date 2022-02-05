@@ -200,6 +200,13 @@ margin-left: 40%;
     margin-left: 22%;
     color: black; 
 }
+.text15 a{
+    text-decoration: none;
+    color: white;
+}
+.text15 a:hover{
+    text-decoration: underline;
+}
 /* --------------grid4--------------------- */
 .grid4{
     width: 100%;
