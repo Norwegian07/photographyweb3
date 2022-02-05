@@ -211,6 +211,8 @@ margin-left: 40%;
 .grid4{
     width: 100%;
     height: auto;
+    display: flex;
+    flex-flow: row wrap;
 }
 /* float */
 .img-1,.img-2,.img-3,.img-4{
