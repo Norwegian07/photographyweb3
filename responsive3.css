@@ -1,0 +1,227 @@
+/* <!-- =============================================================================================
+===============
+for horizontal images
+
+========================================================================================== --> */
+/* nav */
+nav{
+    background-color: white;
+    width: 100%;
+    height: 40px;
+}
+.name{
+    position: absolute;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.name a{
+    text-decoration: none;
+    color: black;
+}
+.main-nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    padding: 15px;
+    padding-left: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-nav a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.main-nav{
+    position: absolute;
+    margin-left: 35%;
+}
+/* -------------------------------------------- */
+
+.storymain-div{
+    width: 100%;
+}
+.image-div{
+    width: 55%;
+    height: auto;
+    margin: 150px 0px 150px 50px;
+    position: relative;
+    height: 1200px;
+}
+.storyimg-1{
+    width: 100%;
+    height: auto;
+}
+.title{
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border: none;
+   margin: -1100px 0px 0px 500px;
+  position: absolute;
+}
+.storytext1{
+    width: 300px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 15px;
+}
+.storytext2{
+    color: gray;
+font-family: 'Times New Roman', Times;
+margin-top: -40px;
+margin-left: 45px;
+}
+aside{
+    float: right;
+    width: 30%;
+    margin-top: -1350px;
+    margin-right: 50px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times;
+}
+.readmore,.readless{
+    width: 200px;
+    height: 30px;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+}
+.readmore:hover, .readless:hover{
+    background-color: lightgray;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1000px){
+    
+
+body,html{
+    width: 100%;
+    margin: 0px;
+}
+/* navigation */
+nav{
+    background-color: white;
+    width: 100%;
+    height: 80px;
+}
+.name{
+    position: absolute;
+    color: black;
+    font-size: 36px;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.name a{
+    text-decoration: none;
+    color: black;
+}
+.main-nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 35px;
+    padding: 15px;
+    padding-left: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main-nav a:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.main-nav{
+    margin-top: 15px;
+    position: absolute;
+    margin-left: 42%;
+    width: 65%;
+}
+
+/* --------------- */
+
+/* stories pages */
+.storymain-div{
+    width: 100%;
+}
+.image-div{
+    width: 100%;
+    height: 650px;
+    margin-top: 150px;
+margin-left: 4%;
+}
+.storyimg-1{
+    width: 100%;
+    height: 650px;
+}
+.title{
+    width: 400px;
+    height: auto;
+    background-color: white;
+    color: black;
+   margin-top: -480px;
+   margin-left: 480px;
+   position: absolute;
+}
+.storytext1{
+    width: 300px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times;
+    font-weight: bold;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+.storytext2{
+    color: gray;
+font-family: 'Times New Roman', Times;
+margin-top: -40px;
+margin-left: 45px;
+font-size: 35px;
+}
+aside{
+    float: none;
+    width: 90%;
+    margin-top: 50px;
+    margin-right: 0px;
+    margin-left: 8%;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    padding: 5px;
+    font-family: 'Times New Roman', Times;
+}
+.readmore,.readless{
+    width: 400px;
+    height: 60px;
+    font-size: 38px;
+    color: black;
+    text-align: center;
+    border: 2px solid black;
+    font-weight: bolder;
+}
+.readmore:hover, .readless:hover{
+    background-color: lightgray;
+    font-weight: bold;
+    cursor: pointer;
+}
+}
