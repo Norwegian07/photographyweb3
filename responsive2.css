@@ -74,6 +74,9 @@ font-family: 'Times New Roman', Times;
 margin-top: -40px;
 margin-left: 45px;
 }
+.storytext3,.storytext4{
+    font-size: 24px;
+}
 aside{
     float: right;
     width: 30%;
