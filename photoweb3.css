@@ -35,6 +35,9 @@ nav{
     position: absolute;
     margin-left: 35%;
 }
+#navbar-2{
+    display: none;
+}
 /* --------------- */
 
 /* first grid */
