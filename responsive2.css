@@ -171,11 +171,11 @@ left: 0;
     padding-bottom: 45px;
     transition: 0.3s;
     color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 .nav-contains a:hover, a:focus{
 color: deeppink;
 text-decoration: underline;
-font-size: 45px;
 }
 .nav-container svg{
     width: 55px;
