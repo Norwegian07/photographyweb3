@@ -165,7 +165,8 @@ left: 0;
     margin-top: 200px;
 }
 .nav-contains a{
-    font-size: 40px;
+    font-size: 45px;
+    letter-spacing: 1px;
     display: block;
     text-decoration: none;
     padding-bottom: 45px;

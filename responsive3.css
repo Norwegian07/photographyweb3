@@ -133,7 +133,7 @@ nav{
     font-size: 42px;
     font-weight: bold;
     margin-left: 150px;
-    margin-top: 5px;
+    margin-top: 15px;
 }
 .name3 a{
     text-decoration: none;
@@ -164,7 +164,8 @@ left: 0;
     margin-top: 200px;
 }
 .nav-contains a{
-    font-size: 40px;
+    font-size: 45px;
+    letter-spacing: 1px;
     display: block;
     text-decoration: none;
     padding-bottom: 45px;
