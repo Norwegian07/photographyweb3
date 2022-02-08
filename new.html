@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+
+        </title>
+    <style>
+        /* mobie navigation  */
+        @media screen and (max-width : 1000px){
+        body,html{
+            width: 100%;
+            margin: 0;
+            height: 1200px;
+        }    
+        
+nav{
+    display: none;
+}
+.name3{
+    position: absolute;
+    color: black;
+    font-size: 42px;
+    font-weight: bold;
+    margin-left: 150px;
+}
+.name3 a{
+    text-decoration: none;
+    color: black;
+}
+#navbar-2{
+width: 100%;
+height: 80px;
+border: 1px solid black;
+}
+
+.nav-container{
+    width: 100%;
+    height: 0%;
+    background-color: rgb(0, 0, 0,0.85);
+    position: fixed;
+    transition: 0.5s;
+    z-index: 1;
+
+}
+.nav-contains{
+    width: 100%;
+    text-align: center;
+    margin-top: 200px;
+}
+.nav-contains a{
+    font-size: 40px;
+    display: block;
+    text-decoration: none;
+    padding-bottom: 45px;
+    transition: 0.3s;
+    color: white;
+}
+.nav-container svg{
+    width: 55px;
+    height: 55px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 10%;
+    color: white;
+}
+.openbtn{
+  font-size: 55px;
+    margin-left: 80%;
+    position: relative;
+}
+
+        }
+    </style>
+    </head>
+    <body>
+      
+      <!-- =============================================================================================
+========================================================================================================= -->
+<!-- mobile nav -->
+<div id="navbar-2">
+    <div class="name3">
+        <a href="index.html">PHOTOLAB</a>
+    </div>
+    <div id="myNav" class="nav-container">
+      
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-circle" viewBox="0 0 16 16">
+            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+            <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+          </svg>
+    
+    </a>
+        <div class="nav-contains">
+
+            <a href="index.html">Home</a>
+            <a href="stories.html">
+                Stories
+            </a>
+            <a href="pricing.html">
+                Pricing
+            </a>
+            <a href="features.html">
+          Features
+            </a>
+        </div>
+    </div>
+    <span class="openbtn" onclick="openNav()">&#9776;</span>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    function closeNav(){
+        document.getElementById("myNav").style.height = "0%";
+    }
+
+    function openNav(){
+        document.getElementById("myNav").style.height = "45%"
+    }
+</script>
+
+</body>
+</html>
